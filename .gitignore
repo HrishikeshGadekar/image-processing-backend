@@ -1,6 +1,10 @@
 # Node.js modules
 node_modules/
 
+uploads/
+previews/
+
+
 # Dependency directories
 jspm_packages/
 bower_components/
